@@ -5,8 +5,7 @@ This project aims to create a specialized Big Data Processing and Analysis Frame
 2. Framework Development
 Components: 
 Data Collection: 
-Develop Python scripts to scrape stock data from CSX website. 
-Implement Kafka for real-time data streaming and ingestion. 
+We developed Python scripts for data scraping to collect historical stock data from the CSX website from 01/01/2019-10/11/2023.
 Data Storage: 
 Utilize Hadoop Distributed File System (HDFS) for efficient storage of historical stock data. 
 Data Processing and Analytics: 
